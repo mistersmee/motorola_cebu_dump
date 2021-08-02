@@ -8,5 +8,5 @@ GitHub recommends repos be less than 1 GB in size, and strongly recommends that 
 
 GitLab only has a 10 GB hard limit for total repository size.
 
-GitHub blocks pushes >= 2 GB, while GitLab blocks pushes >= 5 GB.
+GitHub blocks pushes/imports >= 2 GB, while GitLab blocks pushes/imports >= 5 GB.
 
